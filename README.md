@@ -6,6 +6,7 @@ until I have included all project that haven't been lost on old harddrives.
 <b>Parallel Computing</b>
 <br>
 Use cuda and a nidia 970 gpu to perform a series of tasks quicker that can be done by the CPU.
+<br>
 Repository: https://github.com/benjaminweiss46/Parallel-Computing
 <br>
 <br>
