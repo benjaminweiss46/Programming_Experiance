@@ -2,10 +2,12 @@
 All programming, software development and projects I have made or been a part of since 2013. This list is not at all comprehensive but will continue to update
 until I have included all project that haven't been lost on old harddrives.
 <br>
+<br>
 <b>Parallel Computing</b>
 <br>
 Use cuda and a nidia 970 gpu to perform a series of tasks quicker that can be done by the CPU.
 Repository: https://github.com/benjaminweiss46/Parallel-Computing
+<br>
 <br>
 <b>Computer Vision</b>
 <br>
