@@ -1,6 +1,7 @@
 # Programming_Experiance
 All programming, software development and projects I have made or been a part of since 2013
 This repository will be complete shortly. 
+<br>
 <b>Parallel Computing</b>
 <br>
 Use cuda and a nidia 970 gpu to perform a series of tasks quicker that can be done by the CPU.
