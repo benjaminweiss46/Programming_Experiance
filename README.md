@@ -4,6 +4,8 @@ This repository will be complete shortly.
 <b>Computer Vision<b>
 <br>
 Repository: https://github.com/benjaminweiss46/computer_vision
+<br>This repo will be updated as assignments are completed throughout the semester.
+<br>
 <br>
 <b>Computer-Human Interaction Class</b>
 <br>
