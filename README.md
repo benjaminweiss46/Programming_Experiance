@@ -1,6 +1,6 @@
 # Programming_Experiance
-All programming, software development and projects I have made or been a part of since 2013
-This repository will be complete shortly. 
+All programming, software development and projects I have made or been a part of since 2013. This list is not at all comprehensive but will continue to update
+until I have included all project that haven't been lost on old harddrives.
 <br>
 <b>Parallel Computing</b>
 <br>
